@@ -1,0 +1,3 @@
+admin:pass:adminstrator
+user:pass:normal
+root:pass:superuser
